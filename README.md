@@ -13,32 +13,38 @@ Bienvenido a **Royal Bet**, el destino perfecto para una experiencia de casino o
 
 ## 🛠️ Tecnologías Utilizadas
 
-### **Frontend**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,docker,aws,git,github,tailwind,figma,vscode,bash,linux&theme=light)](https://skillicons.dev)
 
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)  
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+### **Frontend**
+<div style="display: flex; gap: 10px;">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+</div>
 
 ### **Backend**
-
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)  
-[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)  
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)  
-[![JWT](https://skillicons.dev/icons?i=jwt)](https://skillicons.dev)
+<div style="display: flex; gap: 10px;">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jwt" alt="JWT" /></a>
+</div>
 
 ### **Despliegue y Operaciones**
-
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)  
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+<div style="display: flex; gap: 10px;">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</div>
 
 ### **Herramientas Adicionales**
-
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  
-[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  
-[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)  
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+<div style="display: flex; gap: 10px;">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+</div>
 
 ## 📥 Instalación
 
