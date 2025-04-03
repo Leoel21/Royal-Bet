@@ -13,7 +13,8 @@ Bienvenido a **Royal Bet**, la plataforma de casino online diseñada para ofrece
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Frontend**: (https://skillicons.dev/icons?i=html,css,js,sass,tailwin&theme=light)](https://skillicons.dev)
+- **Frontend**: [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,python,netlify,git,github,bash,pnpm,figma,vscode,notion,obsidian,linux,&theme=light)](https://skillicons.dev)
+
 - **Backend**: Node.js, Express
 - **Base de datos**: PostgreSQL
 - **Autenticación**: JWT
