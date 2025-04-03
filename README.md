@@ -13,7 +13,6 @@ Bienvenido a **Royal Bet**, el destino perfecto para una experiencia de casino o
 
 ## 🛠️ Tecnologías Utilizadas
 
-
 ### **Frontend**
 <div style="display: flex; gap: 10px;">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
@@ -84,10 +83,12 @@ Sigue estos simples pasos para tener tu propia instancia de **Royal Bet**:
 
 ## 📩 Contacto y Soporte
 
-📧 **Email**: support@royalbet.com  
+📧 **Email**: leonardowllst@gmail.com  
 🌐 **Sitio web**: www.royalbet.com  
-📌 **GitHub**: https://github.com/tuusuario/royal-bet
+📌 **GitHub**: https://github.com/Leoel21/Royal-Bet
 
 🎉 **Royal Bet** es tu lugar para jugar, ganar y disfrutar. ¡La mejor experiencia de casino online te está esperando! 🃏💰
 
 **Recuerda jugar con responsabilidad.** 🧠💡
+
+**Proyecto en desarrollo y no se lanzará al público, solo es un proyecto para experiencia**
