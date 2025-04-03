@@ -13,7 +13,6 @@ Bienvenido a **Royal Bet**, el destino perfecto para una experiencia de casino o
 
 ## 🛠️ Tecnologías Utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,docker,aws,git,github,tailwind,figma,vscode,bash,linux&theme=light)](https://skillicons.dev)
 
 ### **Frontend**
 <div style="display: flex; gap: 10px;">
