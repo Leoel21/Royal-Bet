@@ -1,6 +1,3 @@
-¡Claro! Aquí tienes el código listo para copiar y pegar:
-
-```markdown
 # 🎰 **Royal Bet** - Tu Casino Online Premium 🎲
 
 Bienvenido a **Royal Bet**, el destino perfecto para una experiencia de casino online de lujo. Si buscas emoción, seguridad y una interfaz impresionante, **Royal Bet** es todo lo que necesitas. Disfruta de juegos exclusivos, promociones únicas y lo mejor del entretenimiento digital, todo desde la comodidad de tu hogar. 🌟
@@ -84,17 +81,10 @@ Sigue estos simples pasos para tener tu propia instancia de **Royal Bet**:
 
 ## 📩 Contacto y Soporte
 
-📧 **Email**: [support@royalbet.com](mailto:support@royalbet.com)  
-🌐 **Sitio web**: [www.royalbet.com](https://www.royalbet.com)  
-📌 **GitHub**: [https://github.com/tuusuario/royal-bet](https://github.com/tuusuario/royal-bet)
-
----
+📧 **Email**: support@royalbet.com  
+🌐 **Sitio web**: www.royalbet.com  
+📌 **GitHub**: https://github.com/tuusuario/royal-bet
 
 🎉 **Royal Bet** es tu lugar para jugar, ganar y disfrutar. ¡La mejor experiencia de casino online te está esperando! 🃏💰
 
----
-
 **Recuerda jugar con responsabilidad.** 🧠💡
-```
-
-Este es el contenido que puedes copiar y pegar en tu archivo `README.md`. ¡Espero que sea justo lo que necesitas! Si deseas realizar más ajustes, no dudes en decírmelo.
