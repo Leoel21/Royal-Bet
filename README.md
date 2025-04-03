@@ -11,10 +11,30 @@ Bienvenido a **Royal Bet**, la plataforma de casino online diseñada para ofrece
 ✅ Bonos y promociones exclusivas 🎁  
 ✅ Diseño moderno y optimizado para móviles 📱  
 
+## 📥 Instalación y Configuración
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/royal-bet.git
+   ```
+2. Entra en la carpeta del proyecto:
+   ```bash
+   cd royal-bet
+   ```
+3. Instala las dependencias necesarias:
+   ```bash
+   npm install
+   ```
+4. Ejecuta el servidor local:
+   ```bash
+   npm start
+   ```
+
 ## 🛠️ Tecnologías Utilizadas
 
-- **Frontend**: [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,python,netlify,git,github,bash,pnpm,figma,vscode,notion,obsidian,linux,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,postgres,docker,aws,git,github,tailwind,figma,vscode,bash,linux&theme=light)](https://skillicons.dev)
 
+- **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express
 - **Base de datos**: PostgreSQL
 - **Autenticación**: JWT
@@ -37,3 +57,4 @@ Bienvenido a **Royal Bet**, la plataforma de casino online diseñada para ofrece
 ---
 
 ¡Diviértete y juega con responsabilidad! 🃏🎲
+
