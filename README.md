@@ -1,3 +1,5 @@
+⚠️**Proyecto en desarrollo y no se lanzará al público, solo es un proyecto para experiencia**⚠️
+
 # 🎰 **Royal Bet** - Tu Casino Online Premium 🎲
 
 Bienvenido a **Royal Bet**, el destino perfecto para una experiencia de casino online de lujo. Si buscas emoción, seguridad y una interfaz impresionante, **Royal Bet** es todo lo que necesitas. Disfruta de juegos exclusivos, promociones únicas y lo mejor del entretenimiento digital, todo desde la comodidad de tu hogar. 🌟
@@ -90,5 +92,3 @@ Sigue estos simples pasos para tener tu propia instancia de **Royal Bet**:
 🎉 **Royal Bet** es tu lugar para jugar, ganar y disfrutar. ¡La mejor experiencia de casino online te está esperando! 🃏💰
 
 **Recuerda jugar con responsabilidad.** 🧠💡
-
-**Proyecto en desarrollo y no se lanzará al público, solo es un proyecto para experiencia**
