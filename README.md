@@ -17,9 +17,11 @@ Bienvenido a **Royal Bet**, el destino perfecto para una experiencia de casino o
 
 ### **Frontend**
 <div style="display: flex; gap: 10px;">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <img src="https://skillicons.dev/icons?i=html" alt="Html" />
+  <img src="https://skillicons.dev/icons?i=css" alt="Css" />
+  <img src="https://skillicons.dev/icons?i=js" alt="Javascript" />
+  <img src="https://skillicons.dev/icons?i=astro" alt="Astro" />
+ <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
 </div>
 
 ### **Backend**
