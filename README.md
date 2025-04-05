@@ -26,18 +26,15 @@ Bienvenido a **Royal Bet**, el destino perfecto para una experiencia de casino o
 
 ### **Backend**
 <div style="display: flex; gap: 10px;">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jwt" alt="JWT" /></a>
+  <h1>Not defined at the moment</h1>
 </div>
 
 ### **Despliegue y Operaciones**
 <div style="display: flex; gap: 10px;">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=netlify" alt="Docker" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <h1><h1>And more not defined at the moment</h1></h1>
 </div>
 
 ### **Herramientas Adicionales**
